@@ -34,4 +34,4 @@ The result is a widening gap between talented job seekers and available opportun
 ## System Architecture  
 CareerTkof is designed using a **microservices architecture** to ensure scalability, flexibility, and ease of maintenance. Each core functionality is implemented as an independent service, communicating through REST APIs and Message queue.
 
-![System Architecture](./diagrams/architecture-dagram.svg)
+![System Architecture](../diagrams/architecture-dagram.svg)
