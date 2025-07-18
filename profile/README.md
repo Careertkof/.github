@@ -36,5 +36,5 @@ CareerTkof is designed using a **microservices architecture** to ensure scalabil
 
 <img width="2925" height="1372" alt="Graduation Project's Class Diagrams - Final Architecture Diagram (1)" src="https://github.com/user-attachments/assets/e6436d0c-2640-43c4-8495-6059e014b5ad" />
 
-## For more details on the CareerTkof
+## For more details on CareerTkof
 [CareerTkof - Technical details.pdf](https://github.com/user-attachments/files/21323653/CareerTkof.-.Technical.details.pdf)
