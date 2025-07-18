@@ -35,3 +35,6 @@ The result is a widening gap between talented job seekers and available opportun
 CareerTkof is designed using a **microservices architecture** to ensure scalability, flexibility, and ease of maintenance. Each core functionality is implemented as an independent service, communicating through REST APIs and Message queue.
 
 <img width="2925" height="1372" alt="Graduation Project's Class Diagrams - Final Architecture Diagram (1)" src="https://github.com/user-attachments/assets/e6436d0c-2640-43c4-8495-6059e014b5ad" />
+
+## For more details on the CareerTkof
+[CareerTkof - Technical details.pdf](https://github.com/user-attachments/files/21323653/CareerTkof.-.Technical.details.pdf)
